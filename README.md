@@ -1,5 +1,5 @@
-# hello-world
-project
+#hello-world, from Brandon
+
 There are many things that I like.
 
 I like playing videogames, playing sports, and hanging out with my friends.
